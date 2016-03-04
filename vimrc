@@ -1,3 +1,5 @@
+" http://marcgg.com/blog/2016/03/01/vimrc-example #
+
 let g:sierra_Midnight = 1
 colorscheme sierra
 filetype on
